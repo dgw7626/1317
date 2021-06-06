@@ -11,6 +11,7 @@
     {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
+    
     list-style-type: none;
     padding: 0;
     margin: 0;
@@ -27,10 +28,10 @@
   }
 		ul.navbar li
      {
-    background-color: 3795FF;
+    background-color: #3795FF;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid 0059A9;
+    border-right: 1em solid #0059A9;
    }
   ul.navbar a
    {
@@ -39,11 +40,11 @@
   }
   a:link 
   {
-    color: black ;
+    color:  white ;
   }
   a:visited 
   {
-    color: black;
+    color: white;
    }
 	address
    {
