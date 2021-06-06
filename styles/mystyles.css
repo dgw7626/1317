@@ -14,7 +14,8 @@
     list-style-type: none;
     padding: 0;
     margin: 0;
-	position: absolute;
+    
+  	position: absolute;
     top: 2em;
     left: 1em;
     width: 10em ;
@@ -26,14 +27,14 @@
   }
 		ul.navbar li
      {
-    background: white;
+    background-color: 3795FF;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black;
+    border-right: 1em solid 0059A9;
    }
   ul.navbar a
    {
-     background-color: cornflowerblue;
+    
     text-decoration: none ;
   }
   a:link 
